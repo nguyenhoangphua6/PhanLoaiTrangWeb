@@ -1,0 +1,20 @@
+Giáo dục {
+	Học bổng, khen thưởng,thủ khoa, đại học,trường, 
+	Học tập, cử nhân, tiến sĩ, thạc sĩ,học kì, giáo viên, sinh viên, học sinh, trợ giảng, nghiên cứu, tín chỉ, sách vở, luận án, đồ án, cao đẳng, 
+	đào tạo. tri thức, học phí, thi cử, kỳ thi, thí sinh, bài thi
+	
+}
+thể thao{
+	bóng đá, hợp đồng, đối thủ, chiến thắng, đánh bại, HLV, tiền đạo, trận đấu, thủ môn
+	AFF, CUp, lượt đi, lượt về, thi đấu, chấn thương
+	quần vợt, giải đấu, tay vợt, ATP, Olympic, thể dục 
+}
+giải trí{
+	hoa hậu, danh hài, nghệ sĩ, á hậu, diễn viên, mĩ nhân, nhan sắc, mặt mộc, trend, siêu mẫu, sao kê, diện mạo, cắt tóc, tạo hình
+	tạo dáng, nghệ thuật, vóc dáng , hài hước, rap việt, gameshow , khách mời, biểu diễn, bày tỏ, chất giọng, thiếu nữ, showbiz
+}
+pháp luật{
+	tuyên án, tội phạm, phạm nhân, 	bị cáo,lừa đảo, chiếm đoạt, có tội , tù, luật sư, giết người, trộm cắp, Công an, hiếp dâm,
+	luật, giám định, khám xét, khởi tổ, hình sự, truy cứu, truy nã, hunh khí, hành hung, gây án, tống tiền, thuốc mê, trộm, 
+	tiêu thụ
+}
